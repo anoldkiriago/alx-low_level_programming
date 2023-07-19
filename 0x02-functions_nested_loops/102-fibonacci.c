@@ -1,8 +1,10 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  * Return: Always (0)
  */
+
 int main(void)
 {
 int i = 0;
@@ -20,7 +22,7 @@ k += j;
 j = k - j;
 printf(", %ld", k);
 }
-++1;
+++i;
 }
 printf("\n");
 return (0);
