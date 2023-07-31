@@ -1,7 +1,6 @@
 #include "main.h"
-
 /**
- *  _strsp - Entry point
+ *  _strspn - Entry point
  *  @s: contains number of bytes to be returned
  *  @accept: source of bytes
  *  Return: Always 0 (success)
