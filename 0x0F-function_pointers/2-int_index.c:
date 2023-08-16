@@ -1,0 +1,4 @@
+nt_index.c:15:7: error: ‘index’ undeclared (first use in this function)
+   15 |  for (index = 0; index < size; index++)
+      |       ^~~~~
+2-int_index.c:15:7: note: each undeclared identifier is reported only once for each function it appears in
